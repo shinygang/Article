@@ -79,3 +79,7 @@ initSort () {
 ```
 ==在开发的时候一定要多看文档，了解其属性的含义会事半功倍，顺延解决问题。==
 下面给一个实例供参考：[jquery-ui-sortable 实例](http://www.shinygang.cn/jquery-ui-sortable/)， 源代码在github上面，[地址](https://github.com/shinygang/jquery-ui-sortable)
+
+
+#### ` 如果对你有帮助，恳请给作者累积一个大保健的机会，欢迎扫码`
+![](http://ww1.sinaimg.cn/large/79462090ly1flmcqgz0xwj21080q2anh.jpg)
